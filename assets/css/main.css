@@ -2482,19 +2482,23 @@
 			}
 
 			.features li:nth-child(25) {
-				background-color: rgba(0, 0, 0, 0.175);
+				background-color: rgba(0, 0, 0, 0.035);
 			}
 
 			.features li:nth-child(26) {
-				background-color: rgba(0, 0, 0, 0.21);
+				background-color: rgba(0, 0, 0, 0.07);
 			}
 
 			.features li:nth-child(27) {
-				background-color: rgba(0, 0, 0, 0.245);
+				background-color: rgba(0, 0, 0, 0.105);
 			}
 
 			.features li:nth-child(28) {
-				background-color: rgba(0, 0, 0, 0.28);
+				background-color: rgba(0, 0, 0, 0.175);
+			}
+
+			.features li:nth-child(29) {
+				background-color: rgba(0, 0, 0, 0.21);
 			}
 
 		wrapper

@@ -2667,7 +2667,7 @@
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c7ebe8;
+				color: #ffffff;
 			}
 
 			.wrapper.style1 label {
@@ -2688,7 +2688,7 @@
 
 			.wrapper.style1 input[type="checkbox"] + label,
 			.wrapper.style1 input[type="radio"] + label {
-				color: #c7ebe8;
+				color: #ffffff;
 			}
 
 				.wrapper.style1 input[type="checkbox"] + label:before,
